@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+prophet
+xgboost
+requests
+flask
+joblib
+matplotlib
+yfinance
+alpha_vantage
+ta
+apache-kafka
+pymongo
